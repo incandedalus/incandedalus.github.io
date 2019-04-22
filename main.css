@@ -101,6 +101,10 @@ a > .fab, a > .fas{
   background-color: blue;
 }
 
+.fitted-image {
+  object-fit: cover;
+  object-position: center; }
+
 @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
