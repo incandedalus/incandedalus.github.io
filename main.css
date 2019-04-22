@@ -123,13 +123,6 @@ a > .fab, a > .fas{
           padding: 0;
           font-size: 2em;
         }
-        body{
-          margin: 0;
-          font-family: 'IBM Plex Mono', monospace;
-          font-size: 14px;
-          color: #111;
-          background-color: #eee;
-        }
         .list{
           padding: 0em 3em;
         }
