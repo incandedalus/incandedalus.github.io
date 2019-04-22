@@ -114,8 +114,7 @@ a > .fab, a > .fas{
 @media only screen and (max-device-width: 650px) {
 
         h1{
-          text-align: center;
-          margin-right: 0.4em;
+          margin-right: -0.7em;
           padding-bottom: 0.4em;
         }
         h1.name{
@@ -125,12 +124,9 @@ a > .fab, a > .fas{
           font-size: 2em;
         }
         .list{
-            text-align: center;
-            padding: 0em 0em;
-            width: 100%;
+          padding: 0em 3em;
         }
         .bio{
-          text-align: center;
           padding: 1em 0;
           float: none;
           text-align: left;
@@ -139,7 +135,6 @@ a > .fab, a > .fas{
         }
 
         .bioTitle{
-          text-align: center;
           display: block;
         }
     }
