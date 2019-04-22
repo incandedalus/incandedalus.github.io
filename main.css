@@ -42,9 +42,10 @@ h4{
 }
 
 .list{
-  padding: 3em 8em;
+  padding: 3em 0em;
   animation: fadein 2s;
-  position: relative;
+  text-align: center;
+  position: fixed;
   z-index: 0;
 }
 
@@ -119,15 +120,15 @@ a > .fab, a > .fas{
         }
         h1.name{
           text-align: center;
-          margin: 2em 0 0 0;
+          margin: auto;
           padding: 0;
           font-size: 2em;
         }
         .list{
-          padding: 0em 3em;
+          padding: 0em 0em;
         }
         .bio{
-          padding: 1em 0;
+          padding: 0em 0;
           float: none;
           text-align: left;
           width: 100%;
