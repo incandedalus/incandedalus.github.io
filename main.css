@@ -127,6 +127,7 @@ a > .fab, a > .fas{
         .list{
             text-align: center;
             padding: 0em 0em;
+            width: 100%;
         }
         .bio{
           text-align: center;
