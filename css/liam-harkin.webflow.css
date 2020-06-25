@@ -278,7 +278,7 @@ a:active {
 }
 
 .div-block-bootom {
-  height: 300px;
+  height: 250px;
 }
 
 .div-block-2 {
@@ -337,6 +337,21 @@ a:active {
   -ms-flex-direction: column;
   flex-direction: column;
   text-align: center;
+}
+
+.heading-3 {
+  font-family: Inconsolata, monospace;
+  color: #df7853;
+  font-weight: 400;
+  text-align: center;
+}
+
+.text-span {
+  color: #df7853;
+}
+
+.text-span-2 {
+  color: #ab9fff;
 }
 
 @media screen and (max-width: 991px) {
