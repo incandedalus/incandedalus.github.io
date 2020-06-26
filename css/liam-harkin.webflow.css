@@ -426,6 +426,9 @@ a:active {
   .text-block-2 {
     font-size: 16px;
   }
+  .div-block-divider {
+    height: 150px;
+  }
   .div-block-bootom {
     height: 250px;
   }
@@ -434,6 +437,9 @@ a:active {
   }
   .html-embed-2 {
     margin-bottom: 0px;
+  }
+  .section-8 {
+    height: 150px;
   }
 }
 
@@ -462,7 +468,7 @@ a:active {
     margin-left: 1px;
   }
   .text-block-2 {
-    margin-top: 108px;
+    margin-top: 100px;
   }
   .div-block-divider {
     height: auto;
@@ -475,6 +481,9 @@ a:active {
   }
   .container-6 {
     display: block;
+  }
+  .section-8 {
+    height: 125px;
   }
 }
 
