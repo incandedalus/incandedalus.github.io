@@ -273,7 +273,7 @@ a:active {
 }
 
 .div-block-divider {
-  height: 200px;
+  height: 150px;
   margin-bottom: 0px;
   margin-left: 0px;
   padding-bottom: 0px;
@@ -433,13 +433,13 @@ a:active {
     height: 250px;
   }
   .div-block-2 {
-    height: 325px;
+    height: 350px;
   }
   .html-embed-2 {
     margin-bottom: 0px;
   }
   .section-8 {
-    height: 125px;
+    height: 100px;
   }
 }
 
