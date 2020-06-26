@@ -357,6 +357,19 @@ a:active {
   color: #ab9fff;
 }
 
+.html-embed {
+  width: 1644px;
+  height: 0px;
+}
+
+.html-embed-2 {
+  color: transparent;
+}
+
+.html-embed-3 {
+  background-color: transparent;
+}
+
 @media screen and (max-width: 991px) {
   .image {
     border-radius: 20px;
