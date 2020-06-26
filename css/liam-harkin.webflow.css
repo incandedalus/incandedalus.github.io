@@ -170,7 +170,7 @@ a:active {
 
 .div-block-header {
   width: auto;
-  height: 150px;
+  height: auto;
 }
 
 .section-4 {
@@ -378,10 +378,15 @@ a:active {
 
 .html-embed-3 {
   background-color: transparent;
+  opacity: 0;
 }
 
 .container-6 {
   display: block;
+}
+
+.section-8 {
+  height: 150px;
 }
 
 @media screen and (max-width: 991px) {
@@ -456,6 +461,9 @@ a:active {
     max-width: 100%;
     margin-left: 1px;
   }
+  .text-block-2 {
+    margin-top: 108px;
+  }
   .div-block-divider {
     height: auto;
   }
@@ -490,6 +498,24 @@ a:active {
     height: 100px;
     margin-left: auto;
   }
+  .div-block-header {
+    height: auto;
+  }
+  .text-block {
+    margin-bottom: 0px;
+  }
+  .text-block-2 {
+    display: block;
+    width: auto;
+    margin-top: 115px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .div-block-2 {
+    margin-top: 34px;
+    padding-top: 0px;
+  }
   .div-block-3 {
     display: block;
     overflow: visible;
@@ -502,9 +528,15 @@ a:active {
     margin-right: auto;
     margin-left: auto;
   }
+  .html-embed-3 {
+    margin-bottom: 0px;
+  }
   .html-embed-4 {
     margin-bottom: 0px;
     opacity: 0;
+  }
+  .section-8 {
+    height: 50px;
   }
 }
 
