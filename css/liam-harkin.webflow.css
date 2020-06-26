@@ -240,7 +240,10 @@ a:active {
   padding-left: 0px;
   border: 1px solid #000;
   border-radius: 20px;
+  background-color: #000;
   opacity: 1;
+  -webkit-transition: opacity 200ms ease;
+  transition: opacity 200ms ease;
   text-align: center;
   -o-object-fit: fill;
   object-fit: fill;
@@ -382,6 +385,15 @@ a:active {
   .image-4 {
     border: 1px none #000;
     border-radius: 12px;
+  }
+  .text-block-2 {
+    font-size: 16px;
+  }
+  .div-block-bootom {
+    height: 250px;
+  }
+  .div-block-2 {
+    height: 250px;
   }
 }
 
