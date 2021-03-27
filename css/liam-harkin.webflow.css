@@ -40,7 +40,7 @@ a:active {
   padding-bottom: 0px;
   font-family: Inconsolata, monospace;
   color: #75dd79;
-  font-style: italic;
+  font-style: normal;
   font-weight: 400;
   text-align: center;
 }
@@ -352,6 +352,7 @@ a:active {
 .heading-3 {
   font-family: Inconsolata, monospace;
   color: #dfd353;
+  font-style: normal;
   font-weight: 400;
   text-align: center;
 }
@@ -495,6 +496,10 @@ a:active {
 
 .bold-text {
   font-weight: 400;
+}
+
+.italic-text-4 {
+  font-style: normal;
 }
 
 @media screen and (max-width: 991px) {
