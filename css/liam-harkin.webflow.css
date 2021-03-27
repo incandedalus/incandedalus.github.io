@@ -709,7 +709,7 @@ a:active {
 
   .button {
     overflow: auto;
-    padding-top: 35px;
+    padding-top: 14px;
   }
 
   .section-3 {
@@ -740,6 +740,8 @@ a:active {
 
   .div-block-bootom {
     height: 225px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
   }
 
   .div-block-2 {
@@ -774,60 +776,64 @@ a:active {
     height: 50px;
   }
 
+  .image-9 {
+    margin-top: -101px;
+  }
+
   .image-10 {
-    margin-top: -56px;
+    margin-top: -3px;
   }
 
   .image-11 {
-    margin-top: -46px;
+    margin-top: 0px;
   }
 
   .image-12 {
-    margin-top: -38px;
+    margin-top: -5px;
   }
 
   .image-13 {
-    margin-top: -40px;
+    margin-top: -4px;
   }
 
   .image-14 {
-    margin-top: -37px;
+    margin-top: 0px;
   }
 
   .image-15 {
-    margin-top: -63px;
+    margin-top: 1px;
   }
 
   .image-16 {
-    margin-top: -45px;
+    margin-top: 1px;
   }
 
   .image-17 {
-    margin-top: -55px;
+    margin-top: 1px;
   }
 
   .image-18 {
-    margin-top: -48px;
+    margin-top: -4px;
   }
 
   .image-19 {
-    margin-top: -42px;
+    margin-top: -2px;
   }
 
   .image-20 {
-    margin-top: -42px;
+    margin-top: -5px;
   }
 
   .image-21 {
-    margin-top: -43px;
+    margin-top: -2px;
   }
 
   .image-22 {
-    margin-top: -43px;
+    margin-top: 0px;
   }
 
   .image-23 {
-    margin-top: -44px;
+    margin-top: -1px;
   }
 
   .text-block-arrow {
