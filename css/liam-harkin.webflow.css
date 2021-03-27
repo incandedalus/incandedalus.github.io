@@ -289,7 +289,7 @@ a:active {
 }
 
 .div-block-2 {
-  height: 400px;
+  height: 425px;
 }
 
 .div-block-3 {
@@ -477,6 +477,24 @@ a:active {
   align-items: stretch;
 }
 
+.text-span-3 {
+  color: #75dd79;
+  font-size: 25px;
+}
+
+.text-block-arrow {
+  margin-top: 0px;
+  padding-top: 419px;
+  font-family: Inconsolata, monospace;
+  color: #b8b8b8;
+  font-size: 18px;
+  text-align: center;
+}
+
+.bold-text {
+  font-weight: 400;
+}
+
 @media screen and (max-width: 991px) {
   .image {
     margin-top: 50px;
@@ -599,6 +617,10 @@ a:active {
   .image-23 {
     margin-top: -87px;
   }
+
+  .text-block-arrow {
+    font-size: 16px;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -657,6 +679,10 @@ a:active {
 
   .section-8 {
     height: 125px;
+  }
+
+  .text-block-arrow {
+    margin-top: 100px;
   }
 }
 
@@ -795,6 +821,15 @@ a:active {
 
   .image-23 {
     margin-top: -44px;
+  }
+
+  .text-block-arrow {
+    display: block;
+    width: auto;
+    margin-top: 115px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
   }
 }
 
