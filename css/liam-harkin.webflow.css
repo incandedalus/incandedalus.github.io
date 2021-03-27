@@ -64,6 +64,7 @@ a:active {
 
 .section {
   position: static;
+  margin-top: 80px;
   padding-top: 0px;
   padding-bottom: 0px;
   clear: none;
