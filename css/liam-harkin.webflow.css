@@ -93,7 +93,7 @@ a:active {
 }
 
 .image-2 {
-  margin-top: 0px;
+  margin-top: -22px;
   margin-right: auto;
   margin-left: auto;
   padding-top: 0px;
@@ -104,9 +104,9 @@ a:active {
   border-color: #000;
   border-radius: 0px;
   background-color: #000;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg');
+  background-image: none;
   background-position: 0px 0px;
-  background-size: 125px;
+  background-size: auto;
   opacity: 1;
   -webkit-transition: opacity 200ms ease;
   transition: opacity 200ms ease;
@@ -352,7 +352,7 @@ a:active {
 
 .heading-3 {
   font-family: Inconsolata, monospace;
-  color: #df7853;
+  color: #dfd353;
   font-weight: 400;
   text-align: center;
 }
@@ -387,6 +387,94 @@ a:active {
 
 .section-8 {
   height: 200px;
+}
+
+.image-9 {
+  margin-top: -148px;
+  padding-top: 0px;
+}
+
+.image-10 {
+  margin-top: -192px;
+}
+
+.image-11 {
+  margin-top: -148px;
+  margin-bottom: 0px;
+  opacity: 1;
+}
+
+.image-12 {
+  display: block;
+  margin-top: -126px;
+  padding-top: 0px;
+}
+
+.image-13 {
+  margin-top: -128px;
+}
+
+.image-14 {
+  margin-top: -128px;
+}
+
+.image-15 {
+  margin-top: -188px;
+}
+
+.image-16 {
+  margin-top: -148px;
+}
+
+.image-17 {
+  margin-top: -172px;
+}
+
+.image-18 {
+  margin-top: -148px;
+}
+
+.image-19 {
+  margin-top: -128px;
+}
+
+.image-20 {
+  margin-top: -125px;
+}
+
+.image-21 {
+  margin-top: -126px;
+}
+
+.image-22 {
+  margin-top: -130px;
+}
+
+.image-23 {
+  margin-top: -126px;
+}
+
+.heading-4 {
+  font-family: Inconsolata, monospace;
+  color: #df7853;
+  font-weight: 400;
+  text-align: center;
+}
+
+.utility-page-form {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
 }
 
 @media screen and (max-width: 991px) {
