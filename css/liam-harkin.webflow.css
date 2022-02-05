@@ -352,7 +352,7 @@ a:active {
 
 .heading-3 {
   font-family: Inconsolata, monospace;
-  color: #dfd353;
+  color: #75dd79;
   font-style: normal;
   font-weight: 400;
   text-align: center;
@@ -501,6 +501,16 @@ a:active {
 
 .italic-text-4 {
   font-style: normal;
+}
+
+.slide {
+  background-image: url('../images/09550005.JPG');
+  background-position: 0px 0px;
+  background-size: contain;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-clip: border-box;
+  -webkit-text-fill-color: inherit;
 }
 
 @media screen and (max-width: 991px) {
